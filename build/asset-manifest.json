@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-card-app/static/css/main.22ac1e3b.css",
+    "main.js": "/react-card-app/static/js/main.9b1e2d2d.js",
+    "static/media/linkedin.png": "/react-card-app/static/media/linkedin.568e7065dfbbe9e23186.png",
+    "static/media/fb-default.png": "/react-card-app/static/media/fb-default.751246b486bfbf6148dc.png",
+    "index.html": "/react-card-app/index.html",
+    "main.22ac1e3b.css.map": "/react-card-app/static/css/main.22ac1e3b.css.map",
+    "main.9b1e2d2d.js.map": "/react-card-app/static/js/main.9b1e2d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ac1e3b.css",
+    "static/js/main.9b1e2d2d.js"
+  ]
+}
