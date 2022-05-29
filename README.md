@@ -1,2 +1,1 @@
-# react-card-app
-React Section 1 Solo Project
+Scrimba React Section 1 Solo Project
